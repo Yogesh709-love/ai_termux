@@ -1,54 +1,4 @@
-# 🟢 HCO Matrix
 
-### AI Command-Line Assistant for Termux & Linux
-
-> **"The quieter you become, the more you are able to hear."**
-
-**Tool Name:** HCO Matrix  
-**Code by:** Azhar • HCO Team  
-**Channel:** Hackers Colony Tech
-
-HCO Matrix is a colorful command-line AI assistant designed to run in
-**Termux on Android** and on **Linux**.
-
-It connects your terminal to an AI model through the OpenRouter API, allowing
-you to ask questions, understand Linux/Termux commands, get coding help, and
-learn cybersecurity concepts directly from the command line.
-
----
-
-## ⚠️ Disclaimer
-
-HCO Matrix is an educational technology project.
-
-Use this tool and any AI-generated commands responsibly and only on systems,
-networks, accounts, and devices that you own or have explicit permission to
-test.
-
-AI-generated information can be incorrect. Always review commands before
-running them.
-
-For cybersecurity use, keep your activity legal, authorized, defensive, and
-educational.
-
----
-
-## 🔐 API KEY SECURITY
-
-**NEVER put your real API key inside `ai.py` or commit it to GitHub.**
-
-HCO Matrix reads the API key from an environment variable:
-
-```bash
-OPENROUTER_API_KEY
-```
-
-Your API key stays on your machine and is not included in this repository.
-
-If an API key is accidentally exposed, revoke it immediately and generate a
-new one.
-
----
 
 # 📱 Termux Installation
 
@@ -183,25 +133,7 @@ Get coding explanations, examples, and debugging help.
 Learn cybersecurity concepts for authorized and educational use.
 
 ### 💬 General Questions
-Use HCO Matrix as a general command-line AI assistant.
-
----
-
-# 📺 Hackers Colony Tech
-
-On startup, HCO Matrix provides a voluntary support prompt and opens the
-Hackers Colony Tech YouTube channel.
-
-Users can like, subscribe, and enable notifications if they enjoy the content.
-HCO Matrix does **not** technically verify these actions.
-
----
-
-# 🧑‍💻 Credits
-
-**Code by Azhar • HCO Team**
-
-**Hackers Colony Tech**
+Use HC
 
 ---
 
