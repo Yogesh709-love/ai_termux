@@ -45,7 +45,7 @@ export OPENROUTER_API_KEY="YOUR_API_KEY"
 ### 7️⃣ Run HCO Matrix 🚀
 
 ```bash
-python HCO-Matrix.py
+python HCO-Matrix-Code-With-Yogesh.py
 ```
 
 ---
@@ -71,13 +71,13 @@ sudo apt install git python3 python3-pip -y
 ### 3️⃣ Clone HCO Matrix
 
 ```bash
-git clone https://github.com/Hackerscolonyofficial/HCO-Matrix.git
+git clone https://github.com/Yogesh709-love/ai_termux.git
 ```
 
 ### 4️⃣ Enter the directory
 
 ```bash
-cd HCO-Matrix
+cd ai_termux
 ```
 
 ### 5️⃣ Install dependencies
@@ -103,7 +103,7 @@ export OPENROUTER_API_KEY="YOUR_API_KEY"
 ### 7️⃣ Start the tool 🚀
 
 ```bash
-python3 HCO-Matrix.py
+python3 HCO-Matrix-Code-With-Yogesh.py
 ```
 
 ---
