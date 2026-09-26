@@ -115,7 +115,7 @@ python3 -m pip install \
 # FILE PERMISSION
 # ============================================================
 
-chmod +x "$PROJECT_DIR/HCO-Matrix.py"
+chmod +x "$PROJECT_DIR/HCO-Matrix-Code-With-Yogesh.py"
 
 
 # ============================================================
