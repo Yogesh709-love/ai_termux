@@ -17,13 +17,13 @@ pkg install git python -y
 ### 3️⃣ Clone HCO Matrix
 
 ```bash
-git clone https://github.com/Hackerscolonyofficial/HCO-Matrix.git
+git clone https://github.com/Yogesh709-love/ai_termux.git
 ```
 
 ### 4️⃣ Enter the directory
 
 ```bash
-cd HCO-Matrix
+cd ai_termux
 ```
 
 ### 5️⃣ Install the Python dependency
